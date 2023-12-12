@@ -1025,7 +1025,7 @@ class="relative overflow-hidden" style="background: #E6B020;">
   class="w-full h-screen flex flex-col justify-center items-center">
     <img 
     ref="logo"
-    src="/logo.svg" class="logo z-40">
+    src="/logo.png" class="logo z-40">
     <h5 
     ref="logotxt"
     class="fixed flex justify-center items-center mt-[12rem] sm:mt-60 text-[1rem] sm:text-2xl md:text-[1.7rem] md:leading-10 text-white font-GenJyuuGothicBold tracking-[1px] sm:tracking-[1px] z-40" 
