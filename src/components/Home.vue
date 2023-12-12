@@ -1036,7 +1036,7 @@ class="relative overflow-hidden" style="background: #E6B020;">
 
     <p 
     ref="titleone"
-    class="absolute text-white text-center text-[1rem] sm:text-2xl md:text-[1rem] z-40 leading-[30px] pt-[30vh] px-8 sm:px-0">
+    class="absolute text-white text-center text-[1rem] sm:text-2xl md:text-[1rem] z-40 leading-[30px] pt-[30vh] px-8 sm:px-0 tracking-[1px]">
     <span class="flex flex-row justify-center">
     動漫IP策劃、活動企劃、行銷媒體 + <span class="t blurtext pl-[0.7rem] w-[100px] h-[10px] leading-[1.9rem]">創意</span><br>
     <div class="center hidden">
@@ -1061,7 +1061,7 @@ class="relative overflow-hidden" style="background: #E6B020;">
   class="w-full h-screen flex flex-col justify-center items-center">
     <p 
     ref="titletwo"
-    class="text-white text-center z-40 leading-[30px]">
+    class="text-white text-center z-40 leading-[30px] tracking-[1px]">
     主題展覽、主題餐廳、主題活動、授權策劃
     <br>
     用動漫IP的魅力，打造快樂的使命</p>
@@ -1072,7 +1072,7 @@ class="relative overflow-hidden" style="background: #E6B020;">
   class="w-full h-screen flex justify-center items-center">
     <p 
     ref="titlethree"
-    class="text-white text-center z-40 leading-[30px]">
+    class="text-white text-center z-40 leading-[30px] tracking-[1px]">
     與你一起，用創意渲染快樂<br>
     Share＆Love Peace<br><br>
     <a href="mailto:pkbaby0707@gmail.com" class="underline z-40">contact us</a></p>
