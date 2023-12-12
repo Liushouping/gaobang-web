@@ -138,7 +138,7 @@ export default{
            scrollTrigger: {
             trigger: txttwo.value,
             start: "top +=600px",
-            end: "99999",
+            end: "100",
             scrub: true,
             toggleClass: "active",
             markers: false,
@@ -147,7 +147,7 @@ export default{
               targets: topbgtxt.value
             },
            },
-           // opacity:1,
+           opacity:1,
           });
           //
           gsap.set(bgtxt.value, {
@@ -1090,3 +1090,11 @@ class="relative overflow-hidden" style="background: #E6B020;">
   </footer>
 </div>
 </template>
+
+
+<style>
+  .blur200px {
+    -webkit-filter: blur(200px);
+    filter: blur(200px);
+  }
+</style>
