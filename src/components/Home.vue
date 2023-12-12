@@ -94,8 +94,8 @@ export default{
             y: 2000,
             opacity: 0,
             scale: 0,
-            delay: 0.25,
-            duration: 0.5,
+            // delay: 0.25,
+            duration: 0.75,
           });
           gsap.to(logo.value, {
            scrollTrigger: {
@@ -114,7 +114,7 @@ export default{
             y: 2000,
             opacity: 0,
             scale: 0,
-            delay: 0.75,
+            delay: 1,
             duration: 0.5,
           });
           gsap.to(logotxt.value, {
