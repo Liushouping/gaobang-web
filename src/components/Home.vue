@@ -106,6 +106,7 @@ export default{
               targets: logo.value
             },
            },
+           opacity: 1,
            scale: 1
           });
           //
